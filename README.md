@@ -1,9 +1,10 @@
-### Hi there 👋
+# Hi there 👋,I'm Roberta .
+
+
+I'm a software engineer who is passionate about contributing to open-sourceprojects, creating solutions to people's problem, and community building. Some technologies I enjoy working with include JavaScript, GraphQL, Laravel. I recently discovered a serveless technology that makes your data accessible easy over GraphQl called https://hasura.io/. I’m looking to collaborate on project ideas especially startups.
 
 <!--
 **Robbieakoto/Robbieakoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
