@@ -1,5 +1,7 @@
 # Hi there 👋,I'm Roberta .
 
+![Profile Banner - 1](https://user-images.githubusercontent.com/33154097/90300774-1362f580-de94-11ea-81ae-fcfb4dcc76a8.png)
+
 I'm a software engineer who is passionate about contributing to open-sourceprojects, creating solutions to people's problem, and community building. Some technologies I enjoy working with include JavaScript, GraphQL, Laravel. I recently discovered a serveless technology that makes your data accessible easy over GraphQl called https://hasura.io/. I’m looking to collaborate on project ideas especially startups.
 
 <!--
