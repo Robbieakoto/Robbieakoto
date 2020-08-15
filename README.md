@@ -4,7 +4,7 @@
 
 I'm a software engineer who is passionate about contributing to open-source projects, creating solutions to people's problem, and community building. Some technologies I enjoy working with JavaScript, GraphQL, Laravel and digging into new technologies. I recently discovered a serveless technology that makes your data accessible easy over GraphQl called https://hasura.io/. I’m looking to collaborate on project ideas especially startups🤗.
 
-When I’m not coding, designing  or writing, I’m the best DJ you’ll ever meet😃. In other words, I love music. I'm also currently available for work.
+When I’m not coding, designing or writing, I’m the best DJ you’ll ever meet😃. In other words, I love music. I'm also currently available for work.
 
 # Let's Connect:
 * LinkedIn: https://www.linkedin.com/in/robbieakoto/
