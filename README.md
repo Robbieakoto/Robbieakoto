@@ -1,4 +1,4 @@
-# Hi there 👋,I'm Roberta. Nice to meet you!
+# Hi there 👋. Nice to meet you!
 
 ![Profile Banner - 1 (1)](https://user-images.githubusercontent.com/33154097/90301136-f16a7280-de95-11ea-8c76-54c69ad523df.png)
 
