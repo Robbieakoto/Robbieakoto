@@ -7,4 +7,9 @@ I'm a software engineer who is passionate about contributing to open-source proj
 When I’m not coding, designing or writing, I’m the best DJ you’ll ever meet😃. In other words, I love music. I'm also currently available for work. You can find all the work experiences and professional information on [linkedin](https://www.linkedin.com/in/robbieakoto/).
 
 # Let's Connect:
-* Twitter: https://twitter.com/Robbie_Akoto
+<p align="center">
+    <a href="https://www.linkedin.com/in/robbieakoto/" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
+    <a href="https://twitter.com/Robbie_Akoto" alt="Twitter">
+        <img src="https://img.shields.io/badge/-twitter-blue?style=flat-square&logo=twitter&logoColor=white" /></a>
+</p>
