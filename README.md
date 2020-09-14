@@ -7,7 +7,7 @@ I'm a software engineer who is passionate about contributing to open-source proj
 When I’m not coding, designing or writing, I’m the best DJ you’ll ever meet😃. In other words, I love music. I'm also currently available for work. 
 
 
-##### Languages
+##### Know/Learning
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
