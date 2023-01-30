@@ -3,7 +3,7 @@
 ![Profile Banner - 1 (1)](https://user-images.githubusercontent.com/33154097/90301136-f16a7280-de95-11ea-8c76-54c69ad523df.png)
 
 #### About Me:
-I'm a Product manager and software engineer who is passionate about creating projects, building solutions to problems with tehc, and community building. Some technologies I enjoy working with JavaScript, GraphQL, Laravel but willing to learn new technologies. Checkout my startup appgharage.com.
+I'm a Product manager and software engineer who is passionate about creating projects, building solutions to problems with tehc, and community building. Some technologies I enjoy working with JavaScript, GraphQL, Laravel but willing to learn new technologies. Checkout my startup www.appgharage.com.
 
 ##### Know/Learning
 
