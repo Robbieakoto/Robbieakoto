@@ -3,10 +3,7 @@
 ![Profile Banner - 1 (1)](https://user-images.githubusercontent.com/33154097/90301136-f16a7280-de95-11ea-8c76-54c69ad523df.png)
 
 #### About Me:
-I'm a software engineer who is passionate about contributing to open-source projects, creating solutions to people's problem, and community building. Some technologies I enjoy working with JavaScript, GraphQL, Laravel but willing to learn new technologies. I recently discovered a serveless technology that makes your data accessible easy over GraphQl called https://hasura.io/. I’m looking to collaborate on project ideas especially startups🤗.
-
-When I’m not coding, designing, drawing or writing, I’m the best DJ you’ll ever meet😃. In other words, I love music.
-
+I'm a Product manager and software engineer who is passionate about creating projects, building solutions to problems with tehc, and community building. Some technologies I enjoy working with JavaScript, GraphQL, Laravel but willing to learn new technologies.
 
 ##### Know/Learning
 
