@@ -25,17 +25,20 @@ I'm a Product manager and software engineer who is passionate about creating pro
 ## Database
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-
+![MariaDB](https://img.shields.io/badge/-MariaDB-black?style=flat-square&logo=mariadb)
 
 #### Others
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)
+![Docker](http://img.shields.io/badge/-Docker-269539?style=flat-square&logo=docker&logoColor=ffffff)
 
-
+#### Editors
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Php Storm](http://img.shields.io/badge/-Php%20Storm-007ACC?style=flat-square&logo=php-storm-code&logoColor=ffffff)
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
 
+#### OS
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 
@@ -46,5 +49,7 @@ I'm a Product manager and software engineer who is passionate about creating pro
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
     <a href="https://twitter.com/Robbie_Akoto" alt="Twitter">
         <img src="https://img.shields.io/badge/-twitter-blue?style=flat-square&logo=twitter&logoColor=white" /></a>
+    <a href="https://medium.com/@akotoro22" alt="Medium">
+        <img src="https://img.shields.io/badge/-medium-black?style=flat-square&logo=medium&logoColor=white" /></a>
 </p>
 
