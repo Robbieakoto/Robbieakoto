@@ -16,6 +16,7 @@ I'm a Product manager and software engineer who is passionate about creating pro
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=ffffff)
 ![Laravel](https://img.shields.io/badge/-laravel-222222?style=flat&logo=laravel&logoColor=ffffff)
+![CakePhp](https://img.shields.io/badge/-cakephp-222222?style=flat&logo=cakephp&logoColor=ffffff)
 
 ## Design
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
