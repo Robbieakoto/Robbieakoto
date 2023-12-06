@@ -3,7 +3,7 @@
 ![Profile Banner - 1 (1)](https://user-images.githubusercontent.com/33154097/90301136-f16a7280-de95-11ea-8c76-54c69ad523df.png)
 
 #### About Me:
-I'm a Product manager and software engineer who is passionate about creating projects, building solutions to problems with tech, and community building. Checkout my startup www.appgharage.com.
+I'm a software engineer who is passionate about creating and building solutions to problems with tech, and empowering women in the tech. I am also a community builder. 
 
 ##### Know/Learning
 
@@ -17,6 +17,8 @@ I'm a Product manager and software engineer who is passionate about creating pro
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=ffffff)
 ![Laravel](https://img.shields.io/badge/-laravel-222222?style=flat&logo=laravel&logoColor=ffffff)
 ![CakePhp](https://img.shields.io/badge/-cakephp-222222?style=flat&logo=cakephp&logoColor=ffffff)
+![GraphQl](https://img.shields.io/badge/-graphql-222222?style=flat&logo=graphql&logoColor=ffffff)
+
 
 ## Design
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
@@ -36,7 +38,6 @@ I'm a Product manager and software engineer who is passionate about creating pro
 #### Editors
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Php Storm](http://img.shields.io/badge/-Php%20Storm-007ACC?style=flat-square&logo=php-storm-code&logoColor=ffffff)
-![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
 
 #### OS
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
