@@ -3,9 +3,9 @@
 ![Profile Banner - 1 (1)](https://user-images.githubusercontent.com/33154097/90301136-f16a7280-de95-11ea-8c76-54c69ad523df.png)
 
 #### About Me:
-I'm a software engineer who is passionate about creating and building solutions to problems with tech, and empowering women in the tech. I am also a community builder. 
+I'm a software engineer, STEM educator, instructor, and Product Manager who is passionate about creating and building solutions to problems and empowering women in tech. I am also a community builder and currently the Women Techmakers Accra Lead, also the People Lead for GDG Accra. 
 
-##### Know/Learning
+##### Know
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -16,7 +16,6 @@ I'm a software engineer who is passionate about creating and building solutions 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=ffffff)
 ![Laravel](https://img.shields.io/badge/-laravel-222222?style=flat&logo=laravel&logoColor=ffffff)
-![CakePhp](https://img.shields.io/badge/-cakephp-222222?style=flat&logo=cakephp&logoColor=ffffff)
 ![GraphQl](https://img.shields.io/badge/-graphql-222222?style=flat&logo=graphql&logoColor=ffffff)
 
 
@@ -42,6 +41,7 @@ I'm a software engineer who is passionate about creating and building solutions 
 #### OS
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+![MacOS](https://img.shields.io/badge/-MacOS-222222?style=flat&logo=macos&logoColor=FCC624)
 
 
 # Let's Connect:
