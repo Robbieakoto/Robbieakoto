@@ -5,7 +5,7 @@
 #### About Me:
 I'm a software engineer, STEM educator, instructor, and Product Manager who is passionate about creating and building solutions to problems and empowering women in tech. I am also a community builder and currently the Women Techmakers Accra Lead, also the People Lead for GDG Accra. 
 
-##### Know
+##### Languages
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -17,10 +17,13 @@ I'm a software engineer, STEM educator, instructor, and Product Manager who is p
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=ffffff)
 ![Laravel](https://img.shields.io/badge/-laravel-222222?style=flat&logo=laravel&logoColor=ffffff)
 ![GraphQl](https://img.shields.io/badge/-graphql-222222?style=flat&logo=graphql&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-python-222222?style=flat&logo=python&logoColor=ffffff)
 
+## Analytics
+![Excel](https://img.shields.io/badge/-excel-222222?style=flat&logo=excel&logoColor=ffffff)
+![PowerBi](https://img.shields.io/badge/-powerBi-222222?style=flat&logo=powerBi&logoColor=ffffff)
 
 ## Design
-![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 ![Figma](http://img.shields.io/badge/-Figma-30333c?style=flat-square&logo=figma&logoColor=ffffff)
 
 ## Database
