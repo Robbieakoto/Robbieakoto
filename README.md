@@ -1,6 +1,6 @@
 # Hi there 👋. Nice to meet you!
 
-![Profile Banner - 1 (1)](https://user-images.githubusercontent.com/33154097/90301136-f16a7280-de95-11ea-8c76-54c69ad523df.png)
+![Profile Banner - 1 (1)](Github.png)
 
 #### About Me:
 I'm a software engineer, STEM educator, instructor, and Product Manager who is passionate about creating and building solutions to problems and empowering women in tech. I am also a community builder and currently the Women Techmakers Accra Lead, also the People Lead for GDG Accra. 
